@@ -1,0 +1,133 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene, a proclamation for the calling in and frustrating all commissions for the making of salt-peter granted forth before that to George Euelin and others, the 28. of Ianuary 1587 whereby many of Her Maiesties subiects were greatly abused, as also that all peter made by the said later commissions doe bring the same into Her Maiesties store, &amp;c.</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1595</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12663</idno>
+            <idno type="STC">STC 8247.4</idno>
+            <idno type="STC">ESTC S115416</idno>
+            <idno type="EEBO-CITATION">23955155</idno>
+            <idno type="OCLC">ocm 23955155</idno>
+            <idno type="VID">15851</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15851)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:55 or 1813:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene, a proclamation for the calling in and frustrating all commissions for the making of salt-peter granted forth before that to George Euelin and others, the 28. of Ianuary 1587 whereby many of Her Maiesties subiects were greatly abused, as also that all peter made by the said later commissions doe bring the same into Her Maiesties store, &amp;c.</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker ...,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1595.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Giuen at Her Maiesties mannour of Richmond, the xiii. of Ianuarie 1589. In the 32. yeere of Her Highnesse raigne."</note>
+                  <note>Reprints STC 8189.7.--Cf. STC (2nd ed.).</note>
+                  <note>This item was formerly STC 8190 and can be found as such at reel 565:55.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Saltpeter industry --  England.</term>
+               <term>Proclamations --  Great Britain.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603.</term>
+               <term>Great Britain --  Politics and government --  1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:15851:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head>¶ A Proclamation for the calling in and fruſtrating all Commiſ<g ref="char:EOLhyphen"/>ſions for the making of Salt-peter granted forth before that to George Euelin and others, the 28. of Ianuary 1587. whereby many of her Maieſties ſubiects were greatly abuſed, as alſo that all pe<g ref="char:EOLhyphen"/>ter made by the ſaid later Commiſsions doe bring the ſame into her Maieſties ſtore, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Queenes moſt excellent Maieſtie for the increaſe &amp; maintenance of her Highneſſe ſtore of powder for the ſeruice of the Office of her Ordinance, did heretofore graunt diuers Commiſſions for the making of Salt-peter with<g ref="char:EOLhyphen"/>in this her Maieſties Realme of England, by vertue whereof, ſuch (to whom the execution thereof was committed) by colour of their ſaid authoritie, and by reaſon of the generalitie of words therein contained, contrary to the true mea<g ref="char:EOLhyphen"/>ning of the ſaid Commiſſions, haue forced and drawen from diuers and ſundry her Maieſties louing ſubiects great ſeruices, and haue vnduely procured from them great exactions by taking of their woods and cariages, and by other in<g ref="char:EOLhyphen"/>direct meanes, to the great grieuance, and diſturbance of her Maieſties ſaid ſubiects: of which miſdemeanours (her Maieſtie hauing vnderſtanding) for the more eaſe of her Highneſſe ſubiects, and repreſſing of ſuch enor<g ref="char:EOLhyphen"/>mities, her Highneſſe by her Maieſties letters of Commiſſion bearing date the xxviii. day of Ianuary, in the xxx. yeere of her Maieſties raigne, did graunt vnto George Euelin Eſquier and others, full power and autho<g ref="char:EOLhyphen"/>ritie for the making of Salt-peter aforeſaid, at their owne proper charges, and therein did not onely inhibite and forbid all ſuch forcements and exactions of ſeruices and other miſuſages of her ſubiects in their houſes, grounds and woods, as had bene required and vrged by colour of the ſaid former Commiſſions, but alſo by the ſame Commiſſion did reuoke and call in all former Commiſſions before the ſaid <hi>28.</hi> day of Ianuary. Sithens the granting of which later Commiſſion, diuers perſons authorized by the ſame vnder the ſaide George and Iohn Euelin for the working and making of Salt-peter, haue fraudulently procured to themſelues by indirect meanes ſome of the former Commiſſions, and by colour of the ſame haue troubled many her Maieſties ſub<g ref="char:EOLhyphen"/>iects, contrary to the expreſſe will and pleaſure of her Maieſtie in that behalfe. Her Highneſſe therefore vpon due conſideration of the premiſſes, and to the ende her Maieſties louing ſubiects be not ouerpreſſed, charged, nor preiudiced contrary to her Maieſties ſaid gracious intent, willeth and commandeth all Iuſtices of Peace, Maiors, Shiriffes, Bailiffes, Conſtables, and all other her Maieſties Officers &amp; miniſters, by all due meanes to ſearch and finde out ſuch former Commiſſions afore the ſaid xxviii. of Ianuary, and the ſame to cancell, and all ſuch perſon and perſons that from the publiſhing of this Proclamation, ſhall goe about to attempt to worke or take vp any thing by colour of the ſaid former Commiſſions, that ſuch perſon and perſons by the next Iuſtice of Peace (where ſuch offence ſhalbe done) be forthwith committed to priſon, there to remaine during her Ma<g ref="char:EOLhyphen"/>ieſties pleaſure. And where great quantities of Salt-peter made by vertue of her Maieſties latter Commiſ<g ref="char:EOLhyphen"/>ſion, be, and haue bene by the ſaid peter-makers conuerted vnto other vſes then for her Maieſties ſeruice, as is expreſſed in the ſame Commiſſion, to the great diſappointment and diſfurniſhing of her Maieſties ſtore of that prouiſion: Her Maieſtie therefore ſtraitly chargeth and forbiddeth all Salt-peter makers, and all other perſon and perſons whatſoeuer, to ſell, buy, or otherwiſe procure vnto themſelues directly or indirectly by any wayes or means whatſoeuer, any Salt-peter made or hereafter to be made by vertue of her Maieſties Commiſſion a<g ref="char:EOLhyphen"/>foreſaid, but that y<hi rend="sup">e</hi> ſame may be brought into her Maieſties ſtore within y<hi rend="sup">e</hi> Tower of London, according to the true intent of her Maieſties Commiſſion in that behalfe to them granted, vpon paine of ſixe moneths impri<g ref="char:EOLhyphen"/>ſonment both to the buyer and ſeller, and loſſe of the Salt peter, or the value thereof ſo ſold and bought. And further, her Maieſtie vnderſtanding of ſome bad and euil diſpoſed perſons (to the hinderance of ſo needfull a prouiſion to be had and made within this her Maieſties Realme) practiſe to deſtroy &amp; make waſte ſuch ground as the ſaid Petermakers (to their great coſt and charges) haue made and founded for the ſeruice aforeſaid: Her Maieſtie therefore willeth likewiſe &amp; commandeth all Iuſtices of peace, Maiors, Shirifes, Bailiffes and Con<g ref="char:EOLhyphen"/>ſtables, and al other Officers and miniſters within their ſeueral limits, diligently to enquire from henceforth of ſuch miſdemeanors, &amp; ſuch perſon or perſons that from henceforth ſhalbe found faultie and to offende in the premiſſes, to be by the next Iuſtices of the peace (where ſuch offence ſhalbe done) committed to priſon, there to remaine during the ſpace of ſixe moneths, without Baile or mainpriſe, and vntil her Maieſties pleaſure bee further therein knowen. Giuen at her Maieſties mannour of Richmond, the xiii. of Ianuarie <hi>1589.</hi> In the <hi>32.</hi> yeere of her Highneſſe raigne.</p>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by the Deputies of Chriſtopher Barker, printer to the Queenes moſt excellent Maieſtie. 1595.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
